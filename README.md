@@ -1,6 +1,8 @@
 # NewsSummarizerSearcher
 News Search &amp; Summarizer Tool - Your Daily Newspaper
 
+NewSummarizer is a powerful tool that helps you stay up-to-date with the latest news and information by summarizing news articles for you. With a user-friendly interface and advanced natural language processing techniques, NewSummarizer allows you to quickly extract key insights from news articles, making it easier than ever to digest a large amount of information in a short amount of time.
+
 Features:
 - Search for news articles using Google News.
 - View search results and select articles of interest.
