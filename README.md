@@ -18,4 +18,6 @@ Try it out and start summarizing the news effortlessly!
 
 ![image](https://github.com/saahil1801/NewsSummarizerSearcher/assets/84408557/cddee494-a190-4398-b5e9-a05890dd97f4)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![image](https://github.com/saahil1801/NewsSummarizerSearcher/assets/84408557/fa576096-76dd-42e0-8e9f-b108b748e1d2)
