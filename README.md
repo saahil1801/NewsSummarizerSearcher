@@ -21,3 +21,7 @@ Try it out and start summarizing the news effortlessly!
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](https://github.com/saahil1801/NewsSummarizerSearcher/assets/84408557/fa576096-76dd-42e0-8e9f-b108b748e1d2)
+
+
+
+Feel free to fork this repository and adapt NewSummarizer to your specific needs or contribute to its development. Stay informed, stay efficient with NewSearch & SummarizerTool!
